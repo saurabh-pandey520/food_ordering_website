@@ -18,6 +18,7 @@ const Header = () =>{
                  <li> <Link to ="/contact">contact Us</Link></li>
                  <li> <Link to ="/about">About Us</Link></li>
                 <li><Link to ="/RateUs">Rate Us</Link></li>
+              
               </ul>
             </div>
           </div>
