@@ -1,0 +1,67 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "12345",
+              "name": "Pizza Hut",
+              "cuisines": ["Pizza", "Fast Food"],
+              "costForTwoMessage": "₹400 for two",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/10/pizza.jpg"
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1",
+                              "name": "Margherita Pizza",
+                              "price": 19900,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/margherita.jpg"
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2",
+                              "name": "Farmhouse Pizza",
+                              "price": 29900,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/farmhouse.jpg"
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3",
+                              "name": "Peppy Paneer",
+                              "defaultPrice": 34900,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/peppypaneer.jpg"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

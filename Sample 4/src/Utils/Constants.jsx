@@ -1,1 +1,6 @@
-export const MENU_API ="https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.6109026&lng=77.1149472&restaurantId=";
+export const MENU_API =
+  "https://corsproxy.io/?https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&restaurantId=";
+
+
+
+

@@ -7,7 +7,7 @@ import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Error from './Error.jsx'
 import Body from './Body.jsx'
-import ResturantMenu from './ResturantMenu.jsx'
+import RestaurantMenu from './RestaurantMenu.jsx'
 import RateUs from './RateUs.jsx'
 // import AppLayout from './App.jsx'
 
@@ -36,7 +36,7 @@ const appRouter = createBrowserRouter([
                 },
                 {
                     path :"/restaurants/:resId",
-                    element : <ResturantMenu/>
+                    element : <RestaurantMenu/>
                 },
                 
         ],
